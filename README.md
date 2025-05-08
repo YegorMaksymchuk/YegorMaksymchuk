@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Yehor Maksymchuk, a Senior Automation Test Engineer\Performance Test Engineer and QA Architect with over a decade of experience in software quality engineering, test automation, and performance testing across various industries, including fintech, healthcare, and retail.
 
-<!--
-**YegorMaksymchuk/YegorMaksymchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building custom test automation frameworks, integrating performance testing into CI/CD pipelines, and leveraging cloud-native tools for observability and monitoring.
 
-Here are some ideas to get you started:
+I'm passionate about sharing knowledge and have delivered talks on topics like using Kubernetes for performance testing and OpenShift for data science applications. I also contribute to educational platforms, providing resources for QA professionals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack Highlights:
+
+*Languages:* Java, Python, JavaScript/TypeScript, Go
+
+*Frameworks:* Spring Boot, Flask, Playwright.js, Appium, Rest-Assured
+
+*Cloud/Infra:* AWS, Azure, Docker, Kubernetes, Terraform
+
+*Monitoring & Performance:* Grafana, Kibana, InfluxDB, JMeter, site-speed.io
+
+*AI Tools:* OpenAI, LangChain, HuggingFace, GPT
+
+Feel free to explore my repositories to see examples of performance test frameworks, DevOps-integrated testing pipelines, and AI-assisted test automation solutions.
