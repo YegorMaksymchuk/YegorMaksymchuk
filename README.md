@@ -8,12 +8,12 @@ Tech Stack Highlights:
 
 *Languages:* Java, Python, JavaScript/TypeScript, Go
 
-*Frameworks:* Spring Boot, Flask, Playwright.js, Appium, Rest-Assured
+*Frameworks:* Spring Boot, Flask, Playwright.js, Appium
 
-*Cloud/Infra:* AWS, Azure, Docker, Kubernetes, Terraform
+*Cloud/Infra:* AWS, Azure, Docker, Kubernetes, Terraform, Ansible
 
 *Monitoring & Performance:* Grafana, Kibana, InfluxDB, JMeter, site-speed.io
 
-*AI Tools:* OpenAI, LangChain, HuggingFace, GPT
+*AI Tools:* OpenAI, LangChain, HuggingFace
 
 Feel free to explore my repositories to see examples of performance test frameworks, DevOps-integrated testing pipelines, and AI-assisted test automation solutions.
