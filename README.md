@@ -4,7 +4,7 @@ I specialize in building custom test automation frameworks, integrating performa
 
 I'm passionate about sharing knowledge and have delivered talks on topics like using Kubernetes for performance testing and OpenShift for data science applications. I also contribute to educational platforms, providing resources for QA professionals.
 
-Tech Stack Highlights:
+**Tech Stack Highlights:**
 
 *Languages:* Java, Python, JavaScript/TypeScript, Go
 
@@ -12,8 +12,8 @@ Tech Stack Highlights:
 
 *Cloud/Infra:* AWS, Azure, Docker, Kubernetes, Terraform, Ansible
 
-*Monitoring & Performance:* Grafana, Kibana, InfluxDB, JMeter, site-speed.io
+*Monitoring & Performance:* Grafana, Kibana, InfluxDB, JMeter, K6, Gatling, Site-Speed.io
 
-*AI Tools:* OpenAI, LangChain, HuggingFace
+*AI Tools:* OpenAI, LangChain, HuggingFace, Cursor IDE, VS Code Ccopilot, Claude Code
 
 Feel free to explore my repositories to see examples of performance test frameworks, DevOps-integrated testing pipelines, and AI-assisted test automation solutions.
