@@ -1,19 +1,21 @@
-Hi, I'm Yehor Maksymchuk, a QA Architect and Performance Test Engineer with over a decade of experience in software quality engineering, test automation, and performance testing across various industries, including fintech, healthcare, and retail.
+**AI-Driven QA Architect | Automation & Performance Testing Expert**
 
-I specialize in building custom test automation frameworks, integrating performance testing into CI/CD pipelines, and leveraging cloud-native tools for observability and monitoring.
+I’m Yehor Maksymchuk, a QA Architect with 10+ years of experience helping teams adopt AI-assisted testing in a practical, production-ready way.
 
-I'm passionate about sharing knowledge and have delivered talks on topics like using Kubernetes for performance testing and OpenShift for data science applications. I also contribute to educational platforms, providing resources for QA professionals.
+I specialize in integrating AI and agent-based workflows into the SDLC to improve test design, execution, and analysis — without compromising reliability or control. My focus is on using AI where it brings measurable value: faster feedback, better coverage, and smarter validation.
 
-**Tech Stack Highlights:**
+**Key strengths:**
+	•	AI-assisted test automation and exploratory testing
+	•	Agentic workflows for test execution and analysis
+	•	Validation of AI-generated code and test artifacts
+	•	Performance and cost-aware quality gates
+	•	CI/CD-integrated testing with observability
 
-*Languages:* Java, Python, JavaScript/TypeScript, Go
+**Technical Expertise**
 
-*Frameworks:* Spring Boot, Flask, Playwright.js, Appium
-
-*Cloud/Infra:* AWS, Azure, Docker, Kubernetes, Terraform, Ansible
-
-*Monitoring & Performance:* Grafana, Kibana, InfluxDB, JMeter, K6, Gatling, Site-Speed.io
-
-*AI Tools:* OpenAI, LangChain, HuggingFace, Cursor IDE, VS Code Ccopilot, Claude Code
-
-Feel free to explore my repositories to see examples of performance test frameworks, DevOps-integrated testing pipelines, and AI-assisted test automation solutions.
+Languages: Java, Python, JavaScript/TypeScript, Go
+Automation & Frameworks: Playwright, Appium, Selenium, Selenide, Spring Boot, Flask
+Performance Testing: JMeter, k6, Gatling, SiteSpeed.io
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, Terraform, Ansible
+Monitoring & Observability: Grafana, Kibana, InfluxDB
+AI & Productivity: OpenAI, LangChain, HuggingFace, Cursor IDE, GitHub Copilot, Claude
